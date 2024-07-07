@@ -1,0 +1,35 @@
+/* WHY THE FUCK ARE THE COMMENTS DIFFERENT FUCK */
+
+/* OK so wrap my entire fucking body in a div wrapper if I'm using *, or it will break everything */
+
+* {
+    background-color: grey;
+}
+
+h1 {
+    color:darkblue;
+}
+
+.fuckingbisque {
+    color:bisque
+}
+
+.fuckingbisque span {
+    color:black
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.fools {
+    font-size: 50px;
+}
+
+.highlight {
+    background:black;
+}
